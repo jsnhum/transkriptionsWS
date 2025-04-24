@@ -13,5 +13,5 @@ steps:
 - step: Export
   settings:
     format: txt
-    dest: /content
+    dest: /content/Transkription
     # outputs
